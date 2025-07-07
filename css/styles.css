@@ -57,7 +57,7 @@ section h2 {
     border-radius: 60px;
     border: none;
     box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5), 7px 7px 20px 0px rgba(0, 0, 0, .1), 4px 4px 5px 0px rgba(0, 0, 0, .1);
-    background: #09dded;
+    background: #3a87e5;
     z-index: 1;
 }
 
@@ -108,7 +108,7 @@ section h2 {
 }
 
 .mapa {
-    border: 3px solid #000; /* Borde negro fino */
+    border: 5px solid #000; /* Borde negro fino */
     border-radius: 5px;
 }
 
